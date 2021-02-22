@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/L3AX-Facturation.iml" filepath="$PROJECT_DIR$/L3AX-Facturation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/back-end-spring/back-end-spring.iml" filepath="$PROJECT_DIR$/back-end-spring/back-end-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/front-end-react/front-end-react.iml" filepath="$PROJECT_DIR$/front-end-react/front-end-react.iml" />
+    </modules>
+  </component>
+</project>
