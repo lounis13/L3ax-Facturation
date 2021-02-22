@@ -12,6 +12,10 @@ public class L3axFacturationApplication implements CommandLineRunner {
         System.out.println("\n Hello L3ax-facturation");
     }
 
+    /**
+     * Main fonction
+     * @param args
+     */
     public static void main(String[] args) {
         SpringApplication.run(L3axFacturationApplication.class, args);
     }
