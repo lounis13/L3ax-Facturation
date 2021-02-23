@@ -1,6 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
 
+/**
+ * Appliacation
+ *
+ * @returns {JSX.Element}
+ * @constructor
+ */
 function App() {
     return (
         <div className="App">

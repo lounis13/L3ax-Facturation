@@ -8,13 +8,13 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class L3axFacturationApplication implements CommandLineRunner {
 
     @Override
-    public void run(String... args) {
+    public void run(String... args) { 
         System.out.println("\n Hello L3ax-facturation");
     }
 
     /**
      * Main fonction
-     * @param args
+     * @param args     arguments
      */
     public static void main(String[] args) {
         SpringApplication.run(L3axFacturationApplication.class, args);
