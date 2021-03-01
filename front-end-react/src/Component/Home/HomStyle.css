@@ -1,0 +1,19 @@
+
+
+nav {
+    background: white;
+}
+
+.link-list {
+    text-align: right;
+    margin-left: auto;
+    margin-right: 20%;
+}
+
+.link-list button {
+    border: 0;
+    background: transparent;
+    font-size: 18px;
+    margin: 10px;
+}
+
